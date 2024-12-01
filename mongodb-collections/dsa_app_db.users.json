@@ -1,0 +1,116 @@
+[{
+  "_id": {
+    "$oid": "673e211a6bd4a4cb6cc73bf8"
+  },
+  "id": 1,
+  "name": "John Doe",
+  "email": "johndoe@example.com",
+  "password": "Welcome@123",
+  "completedTopics": [
+    {
+      "chapterId": 2,
+      "subTopicIds": [
+        1,
+        2
+      ],
+      "completed": true
+    },
+    {
+      "chapterId": 3,
+      "subTopicIds": [
+        1,
+        2
+      ],
+      "completed": true
+    },
+    {
+      "chapterId": 1,
+      "subTopicIds": [
+        1,
+        2,
+        {
+          "subId": 1
+        },
+        {
+          "subId": 2
+        }
+      ],
+      "completed": true
+    },
+    {
+      "chapterId": 5,
+      "subTopicIds": [
+        1,
+        2
+      ],
+      "completed": true
+    },
+    {
+      "chapterId": 12,
+      "subTopicIds": [
+        1,
+        2
+      ],
+      "completed": true
+    },
+    {
+      "chapterId": 6,
+      "subTopicIds": [
+        1,
+        2
+      ],
+      "completed": true
+    },
+    {
+      "chapterId": 11,
+      "subTopicIds": [
+        1,
+        2
+      ],
+      "completed": true
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673e211a6bd4a4cb6cc73bf9"
+  },
+  "id": 2,
+  "name": "Jane Smith",
+  "email": "janesmith@example.com",
+  "password": "Example@123",
+  "completedTopics": [
+    {
+      "chapterId": 2,
+      "subTopicIds": [
+        1,
+        2
+      ],
+      "completed": true
+    },
+    {
+      "chapterId": 3,
+      "subTopicIds": [
+        1,
+        2
+      ],
+      "completed": true
+    },
+    {
+      "chapterId": 5,
+      "subTopicIds": [
+        1,
+        2
+      ],
+      "completed": true
+    },
+    {
+      "chapterId": 1,
+      "subTopicIds": [
+        1,
+        2
+      ],
+      "completed": true
+    }
+  ]
+}]

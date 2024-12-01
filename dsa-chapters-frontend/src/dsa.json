@@ -1,0 +1,148 @@
+[
+    {
+      "id": 1,
+      "title": "Arrays and Strings",
+      "description": "Fundamental data structures for storing sequential data",
+      "difficulty": "Easy",
+      "completed": true,
+      "problems": [
+        {
+          "id": 1,
+          "title": "Introduction to Arrays",
+          "description": "Find two numbers in an array that add up to a target",
+          "difficulty": "Easy",
+          "completed": true,
+          "youtubeLink": "https://www.youtube.com/watch?v=KLlXCFG5TnA",
+          "leetcodeLink": "https://leetcode.com/problems/two-sum/",
+          "articleLink": "https://www.geeksforgeeks.org/two-sum/"
+        },
+        {
+          "id": 2,
+          "title": "Two Pointers Technique",
+          "description": "Solve problems using two pointers moving in opposite directions",
+          "difficulty": "Medium",
+          "completed": true,
+          "youtubeLink": "https://youtube.com/example-two-pointers",
+          "leetcodeLink": "https://leetcode.com/problems/example-two-pointers-problem",
+          "articleLink": "https://example.com/article-two-pointers"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Linked Lists",
+      "description": "Linear data structures with nodes pointing to next elements",
+      "difficulty": "Medium",
+      "completed": false,
+      "problems": [
+        {
+          "id": 1,
+          "title": "Reverse Linked List",
+          "description": "Reverse a singly linked list",
+          "difficulty": "Easy",
+          "completed": false,
+          "youtubeLink": "https://www.youtube.com/watch?v=G0_I-ZF0S38",
+          "leetcodeLink": "https://leetcode.com/problems/reverse-linked-list/",
+          "articleLink": "https://www.geeksforgeeks.org/reverse-a-linked-list/"
+        },
+        {
+          "id": 2,
+          "title": "Detecting a Cycle in Linked List",
+          "description": "Detect whether a linked list contains a cycle",
+          "difficulty": "Medium",
+          "completed": false,
+          "youtubeLink": "https://youtube.com/example-detect-cycle",
+          "leetcodeLink": "https://leetcode.com/problems/example-detect-cycle",
+          "articleLink": "https://example.com/article-detect-cycle"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Binary Trees",
+      "description": "Hierarchical data structures for organizing data",
+      "difficulty": "Medium",
+      "completed": false,
+      "problems": [
+        {
+          "id": 1,
+          "title": "Inorder Traversal",
+          "description": "Traverse a binary tree in Inorder",
+          "difficulty": "Medium",
+          "completed": false,
+          "youtubeLink": "https://www.youtube.com/watch?v=example-inorder",
+          "leetcodeLink": "https://leetcode.com/problems/example-inorder-traversal",
+          "articleLink": "https://example.com/article-inorder-traversal"
+        },
+        {
+          "id": 2,
+          "title": "Lowest Common Ancestor",
+          "description": "Find the lowest common ancestor of two nodes in a binary tree",
+          "difficulty": "Hard",
+          "completed": false,
+          "youtubeLink": "https://www.youtube.com/watch?v=example-lca",
+          "leetcodeLink": "https://leetcode.com/problems/example-lca",
+          "articleLink": "https://example.com/article-lca"
+        }
+      ]
+    },
+    {   
+      "id": 4,
+      "title": "Dynamic Programming",
+      "description": "Optimization technique using overlapping subproblems",
+      "difficulty": "Hard",
+      "completed": false,
+      "problems": [
+        {
+          "id": 1,
+          "title": "Knapsack Problem",
+          "description": "Solve the 0/1 Knapsack problem using DP",
+          "difficulty": "Medium",
+          "completed": false,
+          "youtubeLink": "https://www.youtube.com/watch?v=example-knapsack",
+          "leetcodeLink": "https://leetcode.com/problems/example-knapsack",
+          "articleLink": "https://example.com/article-knapsack"
+        },
+        {
+          "id": 2,
+          "title": "Longest Increasing Subsequence",
+          "description": "Find the length of the longest increasing subsequence",
+          "difficulty": "Hard",
+          "completed": false,
+          "youtubeLink": "https://www.youtube.com/watch?v=example-lis",
+          "leetcodeLink": "https://leetcode.com/problems/example-lis",
+          "articleLink": "https://example.com/article-lis"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "title": "Graphs",
+      "description": "Data structures representing nodes and edges",
+      "difficulty": "Medium",
+      "completed": false,
+      "problems": [
+        {
+          "id": 1,
+          "title": "DFS Traversal",
+          "description": "Depth First Search traversal of a graph",
+          "difficulty": "Easy",
+          "completed": false,
+          "youtubeLink": "https://www.youtube.com/watch?v=example-dfs",
+          "leetcodeLink": "https://leetcode.com/problems/example-dfs",
+          "articleLink": "https://example.com/article-dfs"
+        },
+        {
+          "id": 2,
+          "title": "Dijkstra's Algorithm",
+          "description": "Find the shortest path in a weighted graph",
+          "difficulty": "Hard",
+          "completed": false,
+          "youtubeLink": "https://www.youtube.com/watch?v=example-dijkstra",
+          "leetcodeLink": "https://leetcode.com/problems/example-dijkstra",
+          "articleLink": "https://example.com/article-dijkstra"
+        }
+      ]
+    }
+  ]
+  

@@ -1,0 +1,26 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "johndoe@example.com",
+      "pasword": "Welcome@123",
+      "completedTopics": 
+        {
+          "chapterId": 1,
+          "subTopicIds": [1, 2]
+        }
+      
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "janesmith@example.com",
+      "pasword":"Welcome@123",
+      "completedTopics": 
+        {
+            "chapterId": 1,
+            "subTopicIds": [1, 2]
+          }
+      
+    }
+  ]

@@ -1,0 +1,384 @@
+[{
+  "_id": {
+    "$oid": "673ea68aeaf360acbbc73bf8"
+  },
+  "id": 1,
+  "title": "Arrays and Strings",
+  "description": "Fundamental data structures for storing sequential data",
+  "difficulty": "Easy",
+  "completed": false,
+  "problems": [
+    {
+      "id": 1,
+      "title": "Introduction to Arrays",
+      "description": "Find two numbers in an array that add up to a target",
+      "difficulty": "Easy",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=KLlXCFG5TnA",
+      "leetcodeLink": "https://leetcode.com/problems/two-sum/",
+      "articleLink": "https://www.geeksforgeeks.org/two-sum/"
+    },
+    {
+      "id": 2,
+      "title": "Two Pointers Technique",
+      "description": "Solve problems using two pointers moving in opposite directions",
+      "difficulty": "Medium",
+      "completed": false,
+      "youtubeLink": "https://youtube.com/example-two-pointers",
+      "leetcodeLink": "https://leetcode.com/problems/example-two-pointers-problem",
+      "articleLink": "https://example.com/article-two-pointers"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673ea68aeaf360acbbc73bf9"
+  },
+  "id": 2,
+  "title": "Linked Lists",
+  "description": "Linear data structures with nodes pointing to next elements",
+  "difficulty": "Medium",
+  "completed": false,
+  "problems": [
+    {
+      "id": 1,
+      "title": "Reverse Linked List",
+      "description": "Reverse a singly linked list",
+      "difficulty": "Easy",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=G0_I-ZF0S38",
+      "leetcodeLink": "https://leetcode.com/problems/reverse-linked-list/",
+      "articleLink": "https://www.geeksforgeeks.org/reverse-a-linked-list/"
+    },
+    {
+      "id": 2,
+      "title": "Detecting a Cycle in Linked List",
+      "description": "Detect whether a linked list contains a cycle",
+      "difficulty": "Medium",
+      "completed": false,
+      "youtubeLink": "https://youtube.com/example-detect-cycle",
+      "leetcodeLink": "https://leetcode.com/problems/example-detect-cycle",
+      "articleLink": "https://example.com/article-detect-cycle"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673ea68aeaf360acbbc73bfa"
+  },
+  "id": 3,
+  "title": "Binary Trees",
+  "description": "Hierarchical data structures for organizing data",
+  "difficulty": "Medium",
+  "completed": false,
+  "problems": [
+    {
+      "id": 1,
+      "title": "Inorder Traversal",
+      "description": "Traverse a binary tree in Inorder",
+      "difficulty": "Medium",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=example-inorder",
+      "leetcodeLink": "https://leetcode.com/problems/example-inorder-traversal",
+      "articleLink": "https://example.com/article-inorder-traversal"
+    },
+    {
+      "id": 2,
+      "title": "Lowest Common Ancestor",
+      "description": "Find the lowest common ancestor of two nodes in a binary tree",
+      "difficulty": "Hard",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=example-lca",
+      "leetcodeLink": "https://leetcode.com/problems/example-lca",
+      "articleLink": "https://example.com/article-lca"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673ea68aeaf360acbbc73bfb"
+  },
+  "id": 4,
+  "title": "Dynamic Programming",
+  "description": "Optimization technique using overlapping subproblems",
+  "difficulty": "Hard",
+  "completed": false,
+  "problems": [
+    {
+      "id": 1,
+      "title": "Knapsack Problem",
+      "description": "Solve the 0/1 Knapsack problem using DP",
+      "difficulty": "Medium",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=example-knapsack",
+      "leetcodeLink": "https://leetcode.com/problems/example-knapsack",
+      "articleLink": "https://example.com/article-knapsack"
+    },
+    {
+      "id": 2,
+      "title": "Longest Increasing Subsequence",
+      "description": "Find the length of the longest increasing subsequence",
+      "difficulty": "Hard",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=example-lis",
+      "leetcodeLink": "https://leetcode.com/problems/example-lis",
+      "articleLink": "https://example.com/article-lis"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "673ea68aeaf360acbbc73bfc"
+  },
+  "id": 5,
+  "title": "Graphs",
+  "description": "Data structures representing nodes and edges",
+  "difficulty": "Medium",
+  "completed": false,
+  "problems": [
+    {
+      "id": 1,
+      "title": "DFS Traversal",
+      "description": "Depth First Search traversal of a graph",
+      "difficulty": "Easy",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=example-dfs",
+      "leetcodeLink": "https://leetcode.com/problems/example-dfs",
+      "articleLink": "https://example.com/article-dfs"
+    },
+    {
+      "id": 2,
+      "title": "Dijkstra's Algorithm",
+      "description": "Find the shortest path in a weighted graph",
+      "difficulty": "Hard",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=example-dijkstra",
+      "leetcodeLink": "https://leetcode.com/problems/example-dijkstra",
+      "articleLink": "https://example.com/article-dijkstra"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674027ee9608986b27c73bf8"
+  },
+  "id": 6,
+  "title": "Divide and Conquer Algorithm",
+  "description": "Divide a problem into smaller subproblems, solve them independently, and combine the results",
+  "difficulty": "Hard",
+  "completed": false,
+  "problems": [
+    {
+      "id": 1,
+      "title": "Merge Sort",
+      "description": "Sort an array using the Merge Sort algorithm",
+      "difficulty": "Medium",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=9Pzj7Aj25lw",
+      "leetcodeLink": "https://leetcode.com/problems/merge-sorted-array/",
+      "articleLink": "https://www.geeksforgeeks.org/merge-sort/"
+    },
+    {
+      "id": 2,
+      "title": "Quick Sort",
+      "description": "Sort an array using the Quick Sort algorithm",
+      "difficulty": "Hard",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=Hoix3A5YQSw",
+      "leetcodeLink": "https://leetcode.com/problems/sort-an-array/",
+      "articleLink": "https://www.geeksforgeeks.org/quick-sort/"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674027ee9608986b27c73bf9"
+  },
+  "id": 7,
+  "title": "Stack",
+  "description": "Data structure that follows the Last In First Out (LIFO) principle",
+  "difficulty": "Medium",
+  "completed": false,
+  "problems": [
+    {
+      "id": 1,
+      "title": "Valid Parentheses",
+      "description": "Check if a string of parentheses is valid",
+      "difficulty": "Easy",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=bycdUQF0VjM",
+      "leetcodeLink": "https://leetcode.com/problems/valid-parentheses/",
+      "articleLink": "https://www.geeksforgeeks.org/stack-data-structure-introduction-program/"
+    },
+    {
+      "id": 2,
+      "title": "Min Stack",
+      "description": "Implement a stack that supports push, pop, top, and retrieving the minimum element in constant time",
+      "difficulty": "Medium",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=8bZh5LMaSmE",
+      "leetcodeLink": "https://leetcode.com/problems/min-stack/",
+      "articleLink": "https://www.geeksforgeeks.org/design-a-data-structure-that-supports-minimum-in-constant-time/"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674027ee9608986b27c73bfa"
+  },
+  "id": 8,
+  "title": "Queue",
+  "description": "A linear data structure that follows the First In First Out (FIFO) principle",
+  "difficulty": "Medium",
+  "completed": false,
+  "problems": [
+    {
+      "id": 1,
+      "title": "Implement Queue using Stacks",
+      "description": "Implement a queue using two stacks",
+      "difficulty": "Medium",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=psnF-Pt2At4",
+      "leetcodeLink": "https://leetcode.com/problems/implement-queue-using-stacks/",
+      "articleLink": "https://www.geeksforgeeks.org/queue-using-two-stacks/"
+    },
+    {
+      "id": 2,
+      "title": "Circular Queue",
+      "description": "Implement a circular queue",
+      "difficulty": "Medium",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=UMjR-8ME1FQ",
+      "leetcodeLink": "https://leetcode.com/problems/design-circular-queue/",
+      "articleLink": "https://www.geeksforgeeks.org/circular-queue/"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674027ee9608986b27c73bfb"
+  },
+  "id": 9,
+  "title": "Tree Data Structure",
+  "description": "A hierarchical structure consisting of nodes, with a single root node and children",
+  "difficulty": "Medium",
+  "completed": false,
+  "problems": [
+    {
+      "id": 1,
+      "title": "Binary Search Tree",
+      "description": "Implement a binary search tree and basic operations like insert, delete, search",
+      "difficulty": "Medium",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=DW7t72Lk5Kw",
+      "leetcodeLink": "https://leetcode.com/problems/validate-binary-search-tree/",
+      "articleLink": "https://www.geeksforgeeks.org/binary-search-tree-data-structure/"
+    },
+    {
+      "id": 2,
+      "title": "Level Order Traversal",
+      "description": "Print the level order traversal of a binary tree",
+      "difficulty": "Medium",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=4StGzVdJjPA",
+      "leetcodeLink": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+      "articleLink": "https://www.geeksforgeeks.org/level-order-tree-traversal/"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674027ee9608986b27c73bfc"
+  },
+  "id": 10,
+  "title": "Graph Data Structure",
+  "description": "A collection of nodes connected by edges",
+  "difficulty": "Medium",
+  "completed": false,
+  "problems": [
+    {
+      "id": 1,
+      "title": "BFS Traversal",
+      "description": "Breadth-First Search traversal of a graph",
+      "difficulty": "Easy",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=0J5s1evzOmc",
+      "leetcodeLink": "https://leetcode.com/problems/binary-tree-level-order-traversal/",
+      "articleLink": "https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/"
+    },
+    {
+      "id": 2,
+      "title": "Topological Sort",
+      "description": "Find the topological sorting of a directed acyclic graph",
+      "difficulty": "Hard",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=ddn8JqD3vZg",
+      "leetcodeLink": "https://leetcode.com/problems/course-schedule-ii/",
+      "articleLink": "https://www.geeksforgeeks.org/topological-sorting/"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674027ee9608986b27c73bfd"
+  },
+  "id": 11,
+  "title": "Greedy Methodology",
+  "description": "Solve optimization problems by selecting the best choice at each step",
+  "difficulty": "Hard",
+  "completed": false,
+  "problems": [
+    {
+      "id": 1,
+      "title": "Activity Selection Problem",
+      "description": "Select the maximum number of activities that don't overlap",
+      "difficulty": "Medium",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=kyyy0LGBtkE",
+      "leetcodeLink": "https://leetcode.com/problems/activity-selection/",
+      "articleLink": "https://www.geeksforgeeks.org/activity-selection-problem/"
+    },
+    {
+      "id": 2,
+      "title": "Huffman Coding",
+      "description": "Use greedy algorithm to compress data with minimal code length",
+      "difficulty": "Hard",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=2MrjY_t7gn4",
+      "leetcodeLink": "https://leetcode.com/problems/huffman-encoding/",
+      "articleLink": "https://www.geeksforgeeks.org/huffman-coding-tree/"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "674027ee9608986b27c73bfe"
+  },
+  "id": 12,
+  "title": "Recursion",
+  "description": "A method of solving problems by solving smaller instances of the same problem",
+  "difficulty": "Medium",
+  "completed": false,
+  "problems": [
+    {
+      "id": 1,
+      "title": "Factorial of a Number",
+      "description": "Find the factorial of a number using recursion",
+      "difficulty": "Easy",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=LF8c0tVZq6s",
+      "leetcodeLink": "https://leetcode.com/problems/factorial-of-a-number/",
+      "articleLink": "https://www.geeksforgeeks.org/recursion/"
+    },
+    {
+      "id": 2,
+      "title": "Fibonacci Sequence",
+      "description": "Find the nth number in the Fibonacci sequence using recursion",
+      "difficulty": "Medium",
+      "completed": false,
+      "youtubeLink": "https://www.youtube.com/watch?v=zgJh9tzd4us",
+      "leetcodeLink": "https://leetcode.com/problems/fibonacci-number/",
+      "articleLink": "https://www.geeksforgeeks.org/fibonacci-sequence-using-recursion/"
+    }
+  ]
+}]
